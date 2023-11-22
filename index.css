@@ -1,0 +1,9 @@
+body{
+    width:400px;
+    background: rgb(206, 133, 169);
+    margin: 200px auto;
+    border-radius: 4px;
+    overflow: hidden;
+    border: 8px solid #f2f0ee;
+    box-shadow: 2px 2px 3px #333;
+  }
